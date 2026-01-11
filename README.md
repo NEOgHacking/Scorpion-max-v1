@@ -36,11 +36,13 @@ There are 3 schematics for this project:
 These are way to long to display here (14 pages) so in the PCB folder there in folder for the board you want to see there is a pdf file of the schematic
 
 # PCB
+
 Main board
 <img width="791" height="1213" alt="image" src="https://github.com/user-attachments/assets/9d89f777-38f0-4c66-9863-240889c675c4" />
 
 Thermister boards
 <img width="773" height="1210" alt="image" src="https://github.com/user-attachments/assets/f7b15966-5c3e-4ec2-b687-ad664149b507" />
+
 Expansion board
 <img width="793" height="1207" alt="image" src="https://github.com/user-attachments/assets/5762f186-36b8-47c7-b935-f281b614ceeb" />
 
