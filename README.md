@@ -28,7 +28,7 @@ Standard 4 pin power connector and 2 pin screw terminal
 USB ports, USB-C for programming and external control and USB-A for USB flash drives
 
 # Design
-This board is designed with a lot of safety features and well thought out design, it has a safety circuit to cut of power to the steppers and heaters, good pcb design, followed design recommendation from datasheets, used the right components, and allot more!
+This board is designed with a lot of safety features and well thought out design, it has a safety circuit to cut power to the steppers and heaters, good pcb design, followed design recommendation from datasheets, used the right components, and allot more! The pcb has been designed with the right trace width and good trace layout with no sharp bends. Also have good pcb layout.
 # Schematics
 There are 3 schematics for this project:
 1. Main board
