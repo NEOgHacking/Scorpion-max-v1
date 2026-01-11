@@ -24,3 +24,5 @@ Expansion port for displays, sd cards, ext.
 STM32H743VIT6 for big storage and calculation power
 
 Standard 4 pin power connector and 2 pin screw terminal
+
+USB ports, USB-C for programming and external control and USB-A for USB flash drives
