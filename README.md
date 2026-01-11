@@ -8,7 +8,7 @@ So long story longer I have an ultimaker 2+ laying at home doing nothing because
 # Specs
 5x Stepper driver TMC2130
 
-4x Power Mosfets for controlling beds, heaters, ext.
+4x Power Mosfets for controlling heated beds, heaters, ext.
 
 4x Fan controller with tacho input
 
@@ -59,11 +59,14 @@ I have panelized the thermistor boards for better price per board, the panel sti
 
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/842d4744-9c13-46f3-a9d8-be3a0595093c" />
 
+# Firmware
+The firmware provided is Marlin, but I plan to expand this to more firmware’s like Clipper ext. The board is based on the STM32H743 so it's very powerful and can run almost any firmware!
 
 # BOM
 I have made a BOM for LCSC and a global BOM for all the parts and PCBs these are in the BOM folder
+The price of the LCSC BOM for all the parts is about 180 dollars for 2 boards and the JLCPCB order is at the 54 dollar mark.
+This is not the cheapest board but it does have the most functions!
 
 # Credits
 @Kai Pereira for all my random questions regarding PCB design and blueprint custom project. and for telling me long journals are the best, sorry for the short ones at the beginning. whoops.
 Henk, someone I know that is way better in PCB design than me that looked over my schematic and layout ext.
-
