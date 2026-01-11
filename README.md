@@ -51,3 +51,7 @@ Expansion board
 
 # BOM
 The BOM is located in the BOM folder because its way to long to display here
+
+# Credits
+@Kai Pereira for all my random questions regarding PCB design and blueprint custom project. and for telling me long journals are the best, sorry for the short ones at the beginning. whoops.
+Henk, someone i know that is way better in PCB design that me that looked over my schematic and layout ext.
