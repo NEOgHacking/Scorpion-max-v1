@@ -66,7 +66,7 @@ The firmware provided is Marlin, but I plan to expand this to more firmware’s 
 
 # BOM
 I have made a BOM for LCSC and a global BOM for all the parts and PCBs these are in the BOM folder
-The price of the LCSC BOM for all the parts is about 180 dollars for 2 boards and the JLCPCB order is at the 54 dollar mark.
+The price of the LCSC BOM for all the parts is about 180 dollars for 2 boards and the JLCPCB order is at the 54 dollar.
 This is not the cheapest board but it does have the most functions!
 
 # Credits
