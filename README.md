@@ -8,12 +8,19 @@ So long story longer I have an ultimaker 2+ laying at home doing nothing because
 
 # Specs
 5x Stepper driver TMC2130
-4x Power Mosfets for controlling beds, heaters, ext.
-4x Fan controller with tacho input
-4x Limit switches for homing
-3x Thermister inputs with possibilities for NTC's and PTC's
-2x Safety inputs for disabling cutting power via a relay to the stepper drivers and mosfets
-Expansion port for displays, sd cards, ext.
-STM32H743VIT6 for big storage and calculation power
-Standard 4 pin power connector and 2 pin screw terminal
 
+4x Power Mosfets for controlling beds, heaters, ext.
+
+4x Fan controller with tacho input
+
+4x Limit switches for homing
+
+3x Thermister inputs with possibilities for NTC's and PTC's
+
+2x Safety inputs for disabling cutting power via a relay to the stepper drivers and mosfets
+
+Expansion port for displays, sd cards, ext.
+
+STM32H743VIT6 for big storage and calculation power
+
+Standard 4 pin power connector and 2 pin screw terminal
